@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\DataProcessor.exe
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\DataProcessor.deps.json
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\DataProcessor.runtimeconfig.json
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\DataProcessor.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\DataProcessor.pdb
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.AssemblyInfo.cs
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.sourcelink.json
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\refint\DataProcessor.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.pdb
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.genruntimeconfig.cache
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\ref\DataProcessor.dll
