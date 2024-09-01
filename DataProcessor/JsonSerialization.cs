@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataProcessor;
+using System;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 namespace DataProcessor
@@ -35,7 +36,7 @@ namespace DataProcessor
             JsonDocument doc = JsonDocument.Parse(jsonStr); // first we parse to get the json from the string value
             JsonElement element = doc.RootElement;  //we can get the root element by using rootelement to jsondocument and get a jsonelement type
             string messsage = element.GetProperty("message").ToString(); // we can extract message using get property method
-
+            Console.WriteLine(messsage);    
             //to get the array first we should be sure that an array will exist in the json string
 
             var array = element.GetProperty("data"); // this will return an exception if the data does not exist.
@@ -62,3 +63,7 @@ namespace DataProcessor
         }
     }
 }
+
+//in program.cs
+//JsonSerialization jsonSerialization = new JsonSerialization();
+//jsonSerialization.Serializer();
