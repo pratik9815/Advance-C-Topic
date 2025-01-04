@@ -13,3 +13,12 @@ C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\refint\Dat
 C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.pdb
 C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.genruntimeconfig.cache
 C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\ref\DataProcessor.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\itextsharp.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProcessor.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataProcessor\DataProcessor\obj\Debug\net8.0\DataProc.18A6199F.Up2Date

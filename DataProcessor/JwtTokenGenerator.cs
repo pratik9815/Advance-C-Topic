@@ -5,16 +5,16 @@ using System.Collections.Generic;
 using System.Security.Claims;
 using System.Text;
 					
-public class Program
+public class JwtProgram
 {
   // one of the most common ways for authentication is using jwt token
   // here we have created a token for validating user and roles 
   // we have used 2 packages here one is microsoft.identitymodel.tokens and another is system.identitymodel.tokens.jwt
   // this program creates a jwt token from the given security key using claims
-	public static void Main()
-	{
-		Console.WriteLine(GetToken());
-	}
+	//public static void Main()
+	//{
+	//	Console.WriteLine(GetToken());
+	//}
 	public static string GetToken()
 	{
 		var securitykey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your 256 bit security key"));

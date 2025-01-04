@@ -1,7 +1,7 @@
 using System;
-public class Program
+public class ExtensionProgram
 {
-  public static void Main(string[] args)
+  public static void Use()
     {
         // Extension Methods allow an existing type to be extended with new methods without changing the definition 
         // of the original. It allows you to add functionality to a type that you may not be able to inherit 
